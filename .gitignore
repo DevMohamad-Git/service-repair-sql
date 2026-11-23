@@ -1,0 +1,20 @@
+# Internal agent and project documentation
+docs/
+
+# Local academic reports and screenshots
+report/
+
+# Environment and secrets
+.env
+*.env
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
